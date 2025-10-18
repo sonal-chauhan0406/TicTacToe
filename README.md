@@ -22,7 +22,7 @@ for an engaging on-device multiplayer experience <br>
 
 # 🎥 Demo<br>
 
-👉 Watch the full demo here: 📌https://drive.google.com/file/d/1LAZGfOmnYdmvFrwRvjjqaOuGSCgvEUMR/view?usp=drive_link <br>
+👉 Watch the full demo here: https://drive.google.com/file/d/1IHAOchgTM_8-OLQEvtdHbO8L9Vn26csG/view?usp=drivesdk <br>
 
 # 🛠️ Tech Stack<br>
 
